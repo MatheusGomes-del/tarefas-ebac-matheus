@@ -1,0 +1,15 @@
+algoritmo 'como acordo'
+
+inicio
+  -abro os olhos
+  -levanto da cama
+  -vou ao banheiro
+  -tomo banho
+  -saio do banheiro
+  -coloco outra roupa
+  -tomo café
+  -vou até a porta de saída da casa
+  -coloco a chave para sair
+  -saio 
+  -fecho a porta
+fim
